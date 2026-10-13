@@ -1,9 +1,8 @@
-# vehicle_insurance_renewal_system
-Vehicle Insurance Renewal System developed using PHP, MySQL, HTML, CSS, JavaScript and Bootstrap.
 # Vehicle Insurance Renewal System
 
 ## Project Description
 The Vehicle Insurance Renewal System is a web-based application developed to help insurance agents manage customer details, vehicle information, policy expiry dates, and insurance renewals.
+This is developed using PHP, MySQL, HTML, CSS, JavaScript and Bootstrap.
 
 ## Technologies Used
 - Frontend: HTML, CSS, JavaScript, Bootstrap
